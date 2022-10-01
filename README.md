@@ -11,6 +11,7 @@ Tool to find username
 2. python3 sherlock.py <username>
 
 Screenshot of the associated details found
+  
 ![image](https://user-images.githubusercontent.com/39514108/193384082-42b736e3-4b56-4381-bd9d-8b0393118585.png)
 
 ## Usefulness
