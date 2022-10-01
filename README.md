@@ -1,5 +1,5 @@
 # Sherlock
-Tool to find username
+Tool to find username, tutorial with: https://latesthackingnews.com/2019/01/30/sherlock-a-tool-to-find-usernames-across-social-networks/?fbclid=IwAR1LvKUHGLSl7itTIAWUULTVd9ZcYpAwjsPLzsvAP63yiE-me069sdVlypQ
 
 ## To install
 1. ``git clone https://github.com/TheYahya/sherlock.git``
